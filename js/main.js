@@ -95,7 +95,7 @@ $(document).ready(function()
 	
     $(".ui_element").show();
 
-	chatAPI.push("Multiplayer started.");
+	chatAPI.push("Diego Cabeza.");
 	
     $("body").keydown(function(event)
 	{
